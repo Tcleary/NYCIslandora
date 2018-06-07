@@ -9,7 +9,7 @@
 ## ATTENDEES
 Please add your name if you plan to attend the meeting.
 
-*
+* Thomas Cleary
 
 ## AGENDA
 * Welcome & Introductions
